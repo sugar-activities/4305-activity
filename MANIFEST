@@ -1,0 +1,16 @@
+setup.py
+gui.pyo
+network_stack.pyo
+sugar_network_stack.pyo
+gst_stack.py
+tube_speak.py
+ovc.pyo
+gui.py
+setup.pyo
+tube_speak.pyo
+network_stack.py
+sugar_network_stack.py
+ovc.py
+gst_stack.pyo
+activity/activity-video_chat.svg
+activity/activity.info
